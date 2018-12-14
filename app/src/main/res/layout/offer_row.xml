@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:orientation="horizontal"
+    android:layoutDirection="rtl"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:text="سيفترياكسون 1جم عضل القاهرة"
+        android:id="@+id/tv_offer_drug_name"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:id="@+id/tv_offer_from"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:text="10"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:id="@+id/tv_offer_to"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:text="1000"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:id="@+id/tv_offer_discount"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:text="32.00"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"
+        />
+</LinearLayout>

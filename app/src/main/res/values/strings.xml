@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">يورو فارم</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="client_name">اسم العميل :</string>
+    <string name="balance">الحساب :</string>
+    <string name="chart">سلة المشتريات</string>
+    <string name="today_offers">عروض اليوم</string>
+    <string name="special_items">أصناف مميزة</string>
+    <string name="all_items">أصناف المخزن</string>
+    <string name="wholesale_items">أصناف جملة</string>
+    <string name="deficient_items">نــواقص</string>
+    <string name="request_items">طلب توفير أصناف </string>
+    <string name="insert_formulation">أدخل الشكل الدوائى (مثال :شراب )</string>
+
+</resources>
